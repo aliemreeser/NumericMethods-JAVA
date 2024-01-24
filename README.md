@@ -1,2 +1,2 @@
 # IterationMethods-JAVA
- Application of some iteration methods.
+ Application of some numeric methods.
